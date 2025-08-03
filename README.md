@@ -100,5 +100,6 @@ It uses an **Arduino UNO** as the brain and various sensors/modules for real-tim
 ## 📸 Media
 
 > ![4-in-1 Robot](media/robot_photo.png)
+> ![4-in-1 Robot](media/top_view.png)
 
 
